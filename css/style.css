@@ -1,0 +1,93 @@
+head{ 
+    font-family: Roboto, sans-serif;
+
+}
+#chamada_para_video{
+    background-color: black;1111
+}
+div.chamada_para_video {
+    background-color: rgb(0, 0, 0);
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+h1{
+    color: white;
+    line-height: 45px;
+    margin-left: 200px;
+    font-size: 40px;
+
+}
+#imagem_youtube_do_alex_vargas{
+    border-style: solid;
+    border-color: #1A1A1A;
+    border-radius: 50px;
+
+}
+#internet{
+    padding-right: 200px;
+    margin-top: 0%;
+}
+
+p{
+    color: white;
+    text-align: center;
+    
+    
+}
+#atencao{
+    padding-top: 100px;
+    padding-right: 70px;
+    padding-left: 70px;
+    text-align: justify;
+
+}
+#veja_agora{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    width: 180px;
+    height: 40px;
+    padding: 10px; 
+    border-radius: 1500px;
+    border-style: solid;
+    font-size: 32px;
+    /*Por algum jeito a font- Family não funciona quando retira tag h1*/
+}
+section{
+    background-color: #232529;
+    color: white;
+    font-family: Roboto, sans-serif;
+    height: 364px;
+    width: 585px;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 380px;
+    margin-top: 30px;
+    margin-right: ;
+}
+#ultima_hora_section{
+    padding-top: 30px;
+}
+#oferta_termina{
+    padding-top: 30px;
+    font-size: 30px;
+}
+#preco_especial{
+    padding-top: 150px;
+}
+#botao_verde{
+    background-color: #4ED545;
+    border-radius: 100px;
+    width: 800px;
+    height: 100px;
+    border-width: 100px;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    
+}
+#o_metodo{
+   display: flexbox; 
+
+}
